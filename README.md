@@ -1,4 +1,4 @@
-# Dark Mode Toggler
+# Submitter - Submission App
 ### About
 This is a full UI/UX Designing project of **Submission App - Submitter**. I have created it using **Figma** (Designing Tool)<br>
 <br>
