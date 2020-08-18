@@ -3,7 +3,7 @@
 This is a full UI/UX Designing project of **Submission App - Submitter**. I have created it using **Figma** (Designing Tool)<br>
 <br>
 Check out project here. [Submission App](https://www.figma.com/proto/xUMxwb03DIIuYhsjeh43rz/APP?node-id=0%3A1)
-*Note: You can view project eve if you do not have Figma account.*
+*(Note: You can view project even if you do not have Figma account.)*
 <br><br>
 ### Previews
 ![Frame 1](/Preview/Frame1.png)
